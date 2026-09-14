@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://portfolio-puce-beta-1chnqgk1s8.vercel.app"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-C8FF32?style=for-the-badge&logo=vercel&logoColor=090909" alt="View portfolio" /></a>
   <a href="https://www.linkedin.com/in/priyyanshu-singh/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Arjunsinghooo&style=for-the-badge&color=C8FF32&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshu-ps-dev&style=for-the-badge&color=C8FF32&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
@@ -41,10 +41,10 @@ Mindset   Build useful software. Keep it clear. Keep it dependable.
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [Developer Portfolio](https://github.com/Arjunsinghooo/priyanshu-portfolio) | Animated, responsive personal portfolio with project case studies and a working résumé | Next.js, React, TypeScript, CSS |
-| [Realtime Chat](https://github.com/Arjunsinghooo/realtime-chat) | Real-time application architecture and interactive communication flows | JavaScript, WebSockets |
-| [Laravel API Learning](https://github.com/Arjunsinghooo/laravel-api-learning) | API design, authentication, validation, and backend workflows | Laravel, PHP, REST APIs |
-| [CRUD App](https://github.com/Arjunsinghooo/crud-app-frontend) | Full-stack CRUD flows with a separate [Laravel backend](https://github.com/Arjunsinghooo/crud-app-backend) | React, Laravel, SQL |
+| [Developer Portfolio](https://github.com/priyanshu-ps-dev/priyanshu-portfolio) | Animated, responsive personal portfolio with project case studies and a working résumé | Next.js, React, TypeScript, CSS |
+| [Realtime Chat](https://github.com/priyanshu-ps-dev/realtime-chat) | Real-time application architecture and interactive communication flows | JavaScript, WebSockets |
+| [Laravel API Learning](https://github.com/priyanshu-ps-dev/laravel-api-learning) | API design, authentication, validation, and backend workflows | Laravel, PHP, REST APIs |
+| [CRUD App](https://github.com/priyanshu-ps-dev/crud-app-frontend) | Full-stack CRUD flows with a separate [Laravel backend](https://github.com/priyanshu-ps-dev/crud-app-backend) | React, Laravel, SQL |
 
 ### Current focus
 
@@ -55,9 +55,9 @@ Mindset   Build useful software. Keep it clear. Keep it dependable.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arjunsinghooo?tab=repositories">Explore all repositories</a>
+  <a href="https://github.com/priyanshu-ps-dev?tab=repositories">Explore all repositories</a>
   ·
-  <a href="https://github.com/Arjunsinghooo?tab=overview&from=2026-09-01&to=2026-09-30">View contribution activity</a>
+  <a href="https://github.com/priyanshu-ps-dev?tab=overview&from=2026-09-01&to=2026-09-30">View contribution activity</a>
 </p>
 
 ### Let’s connect
