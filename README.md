@@ -1,52 +1,157 @@
 <p align="center">
-  <img src="./assets/anime-developer-banner.jpg" alt="Anime developer working in a dark neon studio" width="100%" />
-</p>
-
-<h1 align="center">Priyanshu Singh</h1>
-<h3 align="center">Full Stack & Backend Web Developer</h3>
-
-<p align="center">
-  Building reliable web applications, backend workflows, and real-world integrations.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg" />
+    <img src="./assets/profile-hero-dark.svg" alt="Priyanshu Singh — Full-Stack and Backend Engineer" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-puce-beta-1chnqgk1s8.vercel.app"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-C8FF32?style=for-the-badge&logo=vercel&logoColor=090909" alt="View portfolio" /></a>
-  <a href="https://www.linkedin.com/in/priyyanshu-singh/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-puce-beta-1chnqgk1s8.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-C8FF32?style=for-the-badge&logo=vercel&logoColor=090909" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyyanshu-singh/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/priyanshu-ps-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=C8FF32" alt="Projects" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=priyanshu-ps-dev&style=for-the-badge&color=C8FF32&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=C8FF32&center=true&vCenter=true&width=850&lines=Backend-first+developer+who+ships+reliable+web+systems;Laravel+%E2%80%A2+REST+APIs+%E2%80%A2+React+%E2%80%A2+Databases+%E2%80%A2+Integrations;Clean+architecture.+Useful+software.+Dependable+delivery." alt="Typing introduction" />
 </p>
 
 ---
 
-### About me
+## `> whoami`
 
-```text
-Role      Web Developer at Infinity Online Solutions
-Location  Mumbai, India
-Focus     Laravel, backend systems, REST APIs, integrations
-Mindset   Build useful software. Keep it clear. Keep it dependable.
+```yaml
+name: Priyanshu Singh
+role: Web Developer @ Infinity Online Solutions
+location: Mumbai, India
+focus:
+  - Laravel & backend systems
+  - REST APIs & integrations
+  - Full-stack web applications
+  - Database-driven products
+currently_leveling_up:
+  - Redis
+  - Docker
+  - scalable API architecture
+principle: "Build useful software. Keep it clear. Keep it dependable."
 ```
 
-- I build responsive interfaces and database-backed applications.
-- I enjoy connecting clean user experiences with dependable backend engineering.
-- I am currently strengthening my work with Laravel, Redis, Docker, and API-driven systems.
-- I am open to web development and software engineering opportunities.
+I enjoy turning real business requirements into software that is **easy to use, easy to maintain, and dependable in production**. My strongest interest is the layer where clean interfaces meet solid backend engineering.
 
-### Tech stack
+---
 
+## ⚡ Engineering Toolkit
+
+### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,express,html,css,tailwind,bootstrap,mysql,postgres,mongodb,redis,docker,git,github,wordpress&perline=9" alt="PHP, Laravel, JavaScript, React, Node.js, Express, HTML, CSS, Tailwind, Bootstrap, MySQL, PostgreSQL, MongoDB, Redis, Docker, Git, GitHub and WordPress" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,redis&theme=dark" alt="PHP, Laravel, Node.js, Express and Redis" />
 </p>
 
-### Selected work
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap&theme=dark" alt="JavaScript, React, HTML, CSS, Tailwind and Bootstrap" />
+</p>
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [Developer Portfolio](https://github.com/priyanshu-ps-dev/priyanshu-portfolio) | Animated, responsive personal portfolio with project case studies and a working résumé | Next.js, React, TypeScript, CSS |
-| [Realtime Chat](https://github.com/priyanshu-ps-dev/realtime-chat) | Real-time application architecture and interactive communication flows | JavaScript, WebSockets |
-| [Laravel API Learning](https://github.com/priyanshu-ps-dev/laravel-api-learning) | API design, authentication, validation, and backend workflows | Laravel, PHP, REST APIs |
-| [CRUD App](https://github.com/priyanshu-ps-dev/crud-app-frontend) | Full-stack CRUD flows with a separate [Laravel backend](https://github.com/priyanshu-ps-dev/crud-app-backend) | React, Laravel, SQL |
+### Data & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker&theme=dark" alt="MySQL, PostgreSQL, MongoDB and Docker" />
+</p>
 
-### Current focus
+### Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress&theme=dark" alt="Git, GitHub, VS Code and WordPress" />
+</p>
+
+---
+
+## 🚀 Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Developer Portfolio
+A responsive developer portfolio built to present projects, skills, experience and case studies with a modern UI.
+
+**Stack:** Next.js · React · TypeScript · CSS
+
+[**Explore repository →**](https://github.com/priyanshu-ps-dev/priyanshu-portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Realtime Chat
+A real-time communication project focused on interactive messaging flows and event-driven application behavior.
+
+**Stack:** JavaScript · WebSockets
+
+[**Explore repository →**](https://github.com/priyanshu-ps-dev/realtime-chat)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 Laravel API Learning
+Backend-focused work around API design, authentication, validation and structured Laravel workflows.
+
+**Stack:** Laravel · PHP · REST APIs
+
+[**Explore repository →**](https://github.com/priyanshu-ps-dev/laravel-api-learning)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Full-Stack CRUD System
+A separated frontend/backend CRUD architecture connecting a React interface with a Laravel API and database layer.
+
+**Stack:** React · Laravel · SQL
+
+[**Frontend →**](https://github.com/priyanshu-ps-dev/crud-app-frontend) · [**Backend →**](https://github.com/priyanshu-ps-dev/crud-app-backend)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshu-ps-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C8FF32&icon_color=C8FF32&text_color=C9D1D9&ring_color=C8FF32" alt="Priyanshu's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-ps-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=C8FF32&text_color=C9D1D9" alt="Priyanshu's top languages" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=priyanshu-ps-dev&hide_border=true&background=0D1117&ring=C8FF32&fire=C8FF32&currStreakLabel=C8FF32&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-ps-dev&bg_color=0D1117&color=C9D1D9&line=C8FF32&point=FFFFFF&area=true&area_color=6B8F19&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+</p>
+
+---
+
+## 🧠 What I Care About
+
+```text
+01. Backend logic that stays understandable as the product grows
+02. APIs with predictable contracts, validation and error handling
+03. Database design that supports real application workflows
+04. Interfaces that feel simple because the engineering underneath is solid
+05. Shipping, learning, refactoring — then shipping better
+```
+
+---
+
+## 🎯 Current Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/LARAVEL-BACKEND_SYSTEMS-C8FF32?style=for-the-badge&logo=laravel&logoColor=090909" alt="Laravel backend systems" />
@@ -54,19 +159,23 @@ Mindset   Build useful software. Keep it clear. Keep it dependable.
   <img src="https://img.shields.io/badge/DOCKER-REDIS-18181B?style=for-the-badge&logo=docker&logoColor=C8FF32" alt="Docker and Redis" />
 </p>
 
+---
+
+## 🤝 Let’s Build Something Useful
+
 <p align="center">
-  <a href="https://github.com/priyanshu-ps-dev?tab=repositories">Explore all repositories</a>
-  ·
-  <a href="https://github.com/priyanshu-ps-dev?tab=overview&from=2026-09-01&to=2026-09-30">View contribution activity</a>
+  I’m open to web development, backend engineering, software engineering and collaboration opportunities.
 </p>
 
-### Let’s connect
-
-<p>
-  Have a project, role, or collaboration in mind? Reach me through
-  <a href="https://www.linkedin.com/in/priyyanshu-singh/">LinkedIn</a>
-  or explore my work on my
-  <a href="https://portfolio-puce-beta-1chnqgk1s8.vercel.app">portfolio</a>.
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyyanshu-singh/">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://portfolio-puce-beta-1chnqgk1s8.vercel.app">
+    <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-C8FF32?style=for-the-badge&logo=vercel&logoColor=090909" alt="Open portfolio" />
+  </a>
 </p>
 
-<p align="center"><strong>BUILD / TEST / SHIP</strong></p>
+<p align="center">
+  <sub><code>BUILD</code> · <code>TEST</code> · <code>SHIP</code> · <code>IMPROVE</code></sub>
+</p>
